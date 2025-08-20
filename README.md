@@ -1,7 +1,8 @@
 # whatsapp-auto-blast
 
-### 1. Install Requirements
+### 1. Install Requirements and openCV
 <img width="731" height="169" alt="image" src="https://github.com/user-attachments/assets/b3e86917-4199-4611-9280-48b226a85971" />
+<img width="675" height="149" alt="image" src="https://github.com/user-attachments/assets/3e2dd55e-6d14-421b-b454-d3806542f93a" />
 
 ### 2. Fill csv
 <img width="691" height="346" alt="image" src="https://github.com/user-attachments/assets/dfffeebc-24b0-42bf-bb9a-04a0aa61548d" />
