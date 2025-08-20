@@ -41,7 +41,7 @@ def fixNumber(s: str):
     return s
 
 
-log_file: str = "output/wa_log.txt"
+log_file: str = "output-log.txt"
 
 def log_status(number: str, status: str):
     print(f"sent to {number} — {status}")
